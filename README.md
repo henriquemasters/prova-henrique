@@ -2,8 +2,6 @@
 
 Retorna os vôos disponibilizados pelo endpoint [http://prova.123milhas.net/api/flights](http://prova.123milhas.net/api/flights) da empresa **123 Milhas** de forma agrupada. O grupo é um conjunto de vôos ida + volta, que tem o mesmo tipo de tarifa. Este projeto é apenas para carater de teste/avaliação.
 
-Link de demonstração: [DEMO](http://prova.123milhas.net/api/flights)
-
 ### Regras de Agrupamento:
 
 * Deve-se gerar grupos com uma ou mais opções de ida e volta;
@@ -31,7 +29,7 @@ composer update
 Em seu navegador acesse: http://localhost/prova-henrique/public/api/flights
 
 ## Documentação da API
-A documentação dos endpoints pode ser vista [aqui](http://prova.123milhas.net/api/flights).
+A documentação dos endpoints pode ser vista [aqui](https://explore.postman.com/templates/12715/prova-henrique).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
