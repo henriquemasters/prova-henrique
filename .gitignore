@@ -1,7 +1,5 @@
-/vendor
 /.idea
 /nbproject
 Homestead.json
 Homestead.yaml
-.env
 .phpunit.result.cache
